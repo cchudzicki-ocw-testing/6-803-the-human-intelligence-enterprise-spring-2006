@@ -8,6 +8,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: 20_chapteropen.pdf
-type: course
 uid: 267aceab-66be-31a7-ed51-0fce74c283ce
 ---

@@ -7,6 +7,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: hubbard1899.pdf
-type: course
 uid: 490f6607-27ea-57a4-a28d-f96ad7e67cf6
 ---

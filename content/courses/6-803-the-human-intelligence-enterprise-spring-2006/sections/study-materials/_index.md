@@ -8,7 +8,6 @@ menu:
     name: Study Materials
     weight: 50
 title: Study Materials
-type: course
 uid: b3d5b2a8-2d0c-bb2f-3eb3-7f862a65d153
 ---
 

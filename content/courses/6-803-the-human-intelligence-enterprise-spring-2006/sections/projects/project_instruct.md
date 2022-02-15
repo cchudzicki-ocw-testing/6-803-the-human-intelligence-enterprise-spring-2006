@@ -7,6 +7,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: project_instruct.pdf
-type: course
 uid: 370f3d63-a609-2534-87c9-6389eef4c802
 ---

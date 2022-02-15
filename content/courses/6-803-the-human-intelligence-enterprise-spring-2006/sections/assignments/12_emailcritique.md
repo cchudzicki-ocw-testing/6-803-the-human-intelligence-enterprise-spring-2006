@@ -8,6 +8,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: 12_emailcritique.pdf
-type: course
 uid: 5cb85568-bbc1-3029-a41f-4a4b44a62823
 ---

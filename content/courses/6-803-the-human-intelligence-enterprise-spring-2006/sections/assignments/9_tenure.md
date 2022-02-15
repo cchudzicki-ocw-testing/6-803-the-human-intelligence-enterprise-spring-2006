@@ -8,6 +8,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: 9_tenure.pdf
-type: course
 uid: 20a989db-a77f-c296-6d32-a727e52a48ac
 ---

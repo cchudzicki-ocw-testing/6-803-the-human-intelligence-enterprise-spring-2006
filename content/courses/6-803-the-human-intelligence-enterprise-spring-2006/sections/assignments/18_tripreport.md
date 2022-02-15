@@ -8,6 +8,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: 18_tripreport.pdf
-type: course
 uid: 64680bed-6548-a83e-7be9-3654c19371d7
 ---

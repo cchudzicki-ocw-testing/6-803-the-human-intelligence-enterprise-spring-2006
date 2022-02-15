@@ -8,6 +8,5 @@ file_location: /coursemedia/6-803-the-human-intelligence-enterprise-spring-2006/
 file_type: application/pdf
 layout: pdf
 title: 3_brokenglass.pdf
-type: course
 uid: cdf27671-7ca9-104d-afa0-24275acdafec
 ---

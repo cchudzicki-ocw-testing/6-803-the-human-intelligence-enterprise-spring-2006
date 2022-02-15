@@ -8,7 +8,6 @@ menu:
     name: Projects
     weight: 40
 title: Projects
-type: course
 uid: 2991ae9c-b6f4-3c8e-30a6-45ccf80857b4
 ---
 
